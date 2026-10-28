@@ -1,0 +1,6 @@
+{
+  "name": "TÜRKAI — O'zbeklar Uchun Turk Tili & Mahliyo AI",
+  "description": "O'zbek tilida so'zlashuvchilar uchun bepul va zamonaviy turk tili ta'lim platformasi (A1-C2), maxfiy kirishli Mahliyo AI repetitori va Nutq Laboratoriyasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
